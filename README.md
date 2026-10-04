@@ -11,4 +11,5 @@ How sensitive is binary-black-hole remnant retention to progenitor spin alignmen
 
 ## Hypothesis
 
-## 
+## Spin Recoil Description
+We use the recoil prescription found in Zlochower, Campanelli, Lousto (2010) https://arxiv.org/pdf/1011.2210. It includes the 'hangup correction' found in Lousto & Zlochower (2011) https://arxiv.org/pdf/1108.2009. The polynomial for this correction appears in the function "out_of_plane_kick".
